@@ -17,7 +17,7 @@ string removeOuter(string s){
          {
           count++;
          }
-      }
+      } 
 
   return result;
 }
