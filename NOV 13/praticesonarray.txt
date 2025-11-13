@@ -1,0 +1,81 @@
+Find the largest element in an array
+➤ Input: [2, 5, 1, 7, 3] → Output: 7
+
+Find the second largest element in an array
+➤ Without sorting the array.
+
+Find the smallest and largest element in an array
+➤ Use one traversal only.
+
+Calculate the sum of all elements in an array
+
+Count even and odd numbers in an array
+
+Reverse an array
+➤ Input: [1, 2, 3, 4] → Output: [4, 3, 2, 1]
+
+Check if an array is sorted or not
+
+Find the frequency of each element in an array
+
+Search for an element in an array (Linear Search / Binary Search)
+
+Find the missing number in an array of size n−1
+➤ Example: [1, 2, 4, 5, 6] → Output: 3
+
+⚙️ Intermediate Level
+
+Move all zeros to the end of the array
+➤ Input: [0, 1, 0, 3, 12] → Output: [1, 3, 12, 0, 0]
+
+Remove duplicates from a sorted array
+
+Rotate an array by k positions
+➤ Example: [1, 2, 3, 4, 5], k=2 → [4, 5, 1, 2, 3]
+
+Find the intersection of two arrays
+
+Find the union of two arrays
+
+Find the majority element (appears more than n/2 times)
+➤ Use Moore’s Voting Algorithm.
+
+Kadane’s Algorithm – Find the maximum subarray sum
+➤ Input: [-2,1,-3,4,-1,2,1,-5,4] → Output: 6
+
+Count pairs with a given sum
+➤ Example: [1,5,7,1], sum = 6 → Output: 2
+
+Find the duplicate number in an array (1 to n)
+➤ Example: [1, 3, 4, 2, 2] → Output: 2
+
+Merge two sorted arrays without using extra space
+
+
+🚀 Advanced Level
+
+Find the subarray with a given sum (Positive integers only)
+➤ Sliding window approach.
+
+Find all triplets that sum to a given value
+
+Find the longest consecutive subsequence
+➤ Input: [100, 4, 200, 1, 3, 2] → Output: 4 (sequence 1,2,3,4)
+
+Rearrange array in alternating positive and negative items
+
+Find the equilibrium index
+➤ Where left sum = right sum.
+
+Find the number of subarrays with sum equal to k
+➤ Use prefix sum + hashmap.
+
+Product of array except self
+➤ Example: [1, 2, 3, 4] → [24, 12, 8, 6]
+
+Find the minimum number of swaps to sort an array
+
+Find the maximum product subarray
+
+Trapping Rain Water problem
+➤ Given heights of bars, find total trapped water.

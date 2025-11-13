@@ -19,9 +19,9 @@ cout <<"it first element in the vector"<<*(ite);
 for(vector<int>::iterator ite = v.begin();ite != v.end();ite++){
   cout<<*(ite)<<" ";
 }
-  }
+ }
 }
 int main(){
-    vectorpratices();
+  vectorpratices();
 return 0;
 }
